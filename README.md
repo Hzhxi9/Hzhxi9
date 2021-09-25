@@ -1,4 +1,4 @@
-###Hello，我是正在努力学习的小黄 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px">
+<b>Hello，我是正在努力学习的小黄</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px">
 
 罗列一下我的学习规划
 
