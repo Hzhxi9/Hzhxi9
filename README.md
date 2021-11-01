@@ -17,6 +17,7 @@
 - [ ] 🗝 linux/docker
 - [ ] 🐤 微前端(qiankun)
 - [ ] 📱 Flutter
+- [ ] 💡 Svelte
 
 即将实现的DEMO
 
